@@ -8,7 +8,7 @@ Content:
  4. [Course 4: Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
  5. [Course 5: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 
-In this repo I will be uploading the Practice Programming Assignment from the course. 
+In this repo I will be uploading the Practice Programming Assignment from each course. 
 
 ## Course 1: Neural Networks and Deep Learning
 1. [Logistic Regression with a Neural Network mindset](https://github.com/iamrosmarin/deeplearniNgAI/blob/master/01_Neural%20Networks%20and%20Deep%20Learning%20/01_Logistic_Regression_with_a_Neural_Network_mindset_v3.ipynb)
