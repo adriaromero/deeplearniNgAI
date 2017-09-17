@@ -7,3 +7,5 @@ Content:
  3. [Course 3: Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
  4. [Course 4: Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
  5. [Course 5: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+
+In this repo I will be uploading the Practice Programming Assignment from the course. 
